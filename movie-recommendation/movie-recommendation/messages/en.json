@@ -1,0 +1,28 @@
+{
+  "common": {
+    "home": "Home",
+    "movies": "Movies",
+    "tvShows": "TV Shows",
+    "anime": "Anime",
+    "trending": "Trending",
+    "favorites": "Favorites",
+    "notifications": "Notifications",
+    "settings": "Settings",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "home": {
+    "hero": {
+      "title": "Discover Your Next Favorite",
+      "subtitle": "AI-powered recommendations for movies, TV shows, and anime"
+    },
+    "popular": "Popular Now",
+    "recommended": "Recommended for You"
+  },
+  "search": {
+    "placeholder": "Search movies, TV shows, or anime...",
+    "button": "Search"
+  }
+}
+

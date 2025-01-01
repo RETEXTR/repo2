@@ -1,0 +1,28 @@
+{
+  "common": {
+    "home": "Inicio",
+    "movies": "Películas",
+    "tvShows": "Series",
+    "anime": "Anime",
+    "trending": "Tendencias",
+    "favorites": "Favoritos",
+    "notifications": "Notificaciones",
+    "settings": "Configuración",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "logout": "Cerrar sesión"
+  },
+  "home": {
+    "hero": {
+      "title": "Descubre tu próximo favorito",
+      "subtitle": "Recomendaciones impulsadas por IA para películas, series y anime"
+    },
+    "popular": "Popular ahora",
+    "recommended": "Recomendado para ti"
+  },
+  "search": {
+    "placeholder": "Buscar películas, series o anime...",
+    "button": "Buscar"
+  }
+}
+
